@@ -1,0 +1,17 @@
+.css-1oyiadx-MuiChip-root {
+    background-color: #ff5a60;
+    border-radius: 2px;
+    min-width: 90px;
+    height: 30px;
+    color: #fff;
+}
+
+.author-name {
+    color: grey;
+}
+
+/* .detail-description img {
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+} */
