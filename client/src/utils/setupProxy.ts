@@ -5,7 +5,7 @@ module.exports = function(app: Express) {
   app.use(
     '/api',
     createProxyMiddleware({
-      target: 'http://http://sathhi-backend.onrender.com',
+      target: 'http://sathhi-backend.onrender.com',
       changeOrigin: true,
     })
   );
