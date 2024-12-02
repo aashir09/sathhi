@@ -1,6 +1,6 @@
 {
   "/api": {
-    "target": "http://sathhi-backend.onrender.com",
+    "target": "https://sathhi-backend.onrender.com",
     "secure": false,
     "changeOrigin": true,
     "logLevel": "debug"

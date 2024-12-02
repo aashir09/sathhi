@@ -57,7 +57,7 @@
     "lint:fix": "eslint --fix",
     "format": "prettier --write \"./**/*.{ts,tsx,js,jsx,json}\" --config ./.prettierrc"
   },
-  "proxy": "http://sathhi-backend.onrender.com",
+  "proxy": "https://sathhi-backend.onrender.com",
   "browserslist": {
     "production": [
       ">0.2%",

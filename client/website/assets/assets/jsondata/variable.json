@@ -1,7 +1,7 @@
 {
     "appName": "Matrimony",
-    "apiBaseURL": "http://sathhi-backend.onrender.com/api/",
-    "imageBaseurl":"http://sathhi-backend.onrender.com/",
+    "apiBaseURL": "https://sathhi-backend.onrender.com/api/",
+    "imageBaseurl":"https://sathhi-backend.onrender.com/",
     "version": 1.6,
     "apiKeyForWeb": "AIzaSyBp6FGfVtxruUJADm_FNgxg2cdDkJcDkt8",
     "authDomainForWeb": "matrimony-firebase-admin.firebaseapp.com",
