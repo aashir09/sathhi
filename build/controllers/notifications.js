@@ -15,7 +15,7 @@ const notification_options = {
     timeToLive: 60 * 60 * 24
 };
 var admin = require("firebase-admin");
-var serviceAccount = require("../../matrimony-firebase-adminsdk.json");
+var serviceAccount = require("../matrimony-firebase-adminsdk.json");
 admin.initializeApp({
     credential: admin.credential.cert(serviceAccount)
 });
